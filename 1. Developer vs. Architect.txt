@@ -3,3 +3,39 @@
 
 * Big picture vs. little picture
 --------------------------------
+
+* Architect
+-----------
+. Keep many different components in your mind.
+
+. Have a rudimentary knowledge of how they all work.
+
+. Software architects focus on the big picture.
+
+. High-level understanding.
+
+
+* Potential Questions
+---------------------
+. Will a performance change occur?
+
+. Will it cause another component to behave differently?
+
+. How will it impact the application?
+
+. Will it expose a bug?
+
+. Will it have an impact at multiple levels?
+
+. Will parts of the system need to change?
+
+. Will other teams support the changes?
+
+* The scope of responsibility expands as an architect.
+
+* You now focus on wide-ranging interaction between multiple, disparate systems.
+
+* Management and others look to you for external knowledge and syste understanding.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
