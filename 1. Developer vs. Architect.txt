@@ -31,11 +31,105 @@
 
 . Will other teams support the changes?
 
-* The scope of responsibility expands as an architect.
+		* The scope of responsibility expands as an architect.
 
-* You now focus on wide-ranging interaction between multiple, disparate systems.
+		* You now focus on wide-ranging interaction between multiple, disparate systems.
 
-* Management and others look to you for external knowledge and syste understanding.
+		* Management and others look to you for external knowledge and syste understanding.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Teacher rather than dictator
+------------------------------
+
+* Developer as Hero
+---------------------
+. Person others turn to in order to fix problems.
+
+. Brings delayed projects back on track.
+
+. Fixes critical systems.
+
+
+* Developer Hero: Architects
+----------------------------
+. Assume same skills are useful?
+
+. Isn't the architect the one ultimately technically responsible?
+
+		* The "hero" developers must make great architects.
+
+
+* Newly Promoted Architects
+---------------------------
+. Take all available data.
+
+. Internalize it.
+
+. Solve the problem.
+
+. Broadcast the solution.
+
+		* Simply announce the answer.
+
+
+* Best Architects
+-----------------
+. Work with developers.
+
+. Understand the facts.
+
+. Guide team to a solution.
+
+. Lead developers to the right decisions.
+
+
+		* The best architects guide developers to the rigth decisions.
+
+		* The best architects aren't dictators.  They are teachers.
+
+
+. The best architects work with their teams.
+
+. Need a motivated team to do their best work.
+
+. Leverage experience of a team.
+
+. Train, encourage, and energize the team members.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
