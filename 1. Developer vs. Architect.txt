@@ -1,0 +1,5 @@
+# 1. Developer vs. Architect
+----------------------------
+
+* Big picture vs. little picture
+--------------------------------

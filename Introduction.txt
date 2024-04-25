@@ -1,0 +1,11 @@
+# INTRODUCTION
+--------------
+
+* Wisdom in software engineering
+--------------------------------
+. The transtion is not straightforward.
+
+. From the scope of responsibility, the people you interact with.
+
+. Mindset adjustments.
+
