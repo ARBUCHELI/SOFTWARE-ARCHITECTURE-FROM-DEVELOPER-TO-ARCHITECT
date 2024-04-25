@@ -97,7 +97,63 @@
 
 . Train, encourage, and energize the team members.
 
+		* Architects make the entire organization better.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Evaluator and feedback
+------------------------
+
+* Architect as Evaluator
+------------------------
+. Evaluations have huge impact on application
+
+. The major opportunity to influence application
+
+. Reviews all major design initiatives
+
+. Keeps technical debt in mind
+
+. Input must be direct and actionable
+
+
+* The Architect's Responsibility
+--------------------------------
+. Beyond the design and architecture.
+
+. Performance of the engineers.
+	- Mentor
+	- Technical coach
+
+. Communication
+
+. Explains rationale and reasonings.
+
+. Teaches and grows shared vision.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
