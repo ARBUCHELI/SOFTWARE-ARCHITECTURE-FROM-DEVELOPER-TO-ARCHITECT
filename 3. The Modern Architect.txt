@@ -1,0 +1,73 @@
+# 3. THE MODERN ARCHITECT
+-------------------------
+
+* Agile architecture process
+----------------------------
+Architecting a modern application is not simply a matter of drawing up an architecture, throwing it over the wall and expecting the developers to build it and the operations team to run
+it.
+
+
+* Modern Application Architecture
+---------------------------------
+. Ongoing collaboration between developers, product managers, operations, and infrastructure engineers.
+
+. Fluid and dynamic.
+
+. Requires constant and incremental improvement.
+
+	* THE BEST WAY TO BUILD AND NURTURE A MODERN APPLICATION ARCHITECTURE IT TO USE AGILE ARCHITECTURE METHODS.
+	* THESE ARE THE SAME TYPE OF AGILE PROCESSES USED BY DEVELOPERS.S
+
+* Agile Foundations
+-------------------
+. Doug Rose.
+
+. Agile Software Development
+----------------------------
+. Shashi Shekhar
+
+* Constantly Listening to Feedback
+----------------------------------
+. Developers, operations, product management, upper management, and customers.
+
+. Usage grows, expectations clarify, changes are required.
+
+. Listening and responding to feedback.
+
+	* THE SAME AGILE SKILLS YOU LEARNED AS A DEVELOPER WILL HELP YOU MAINTAIN DYNAMIC ARCHITECTURES.
+
+* Utilizing Sprints
+-------------------
+. Sprint cycle is independent and unique from development cycle
+	- Architecture should be a bit more stable than development cycles
+
+. Architecture cycle should lead develoment cycle
+
+. Updated architecture becomes input into development cycle
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
