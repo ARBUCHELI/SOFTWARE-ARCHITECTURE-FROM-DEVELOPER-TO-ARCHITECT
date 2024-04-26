@@ -113,6 +113,65 @@ it.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Scale and availability: Beyond just making an app
+---------------------------------------------------
+
+* Scale and Availability
+------------------------
+
+	* THERE ARE TWO INHERENTLY CRITICAL ASPECTS OF OPERATING YOUR APPLICATION, IN THE MODERN WORLD.
+
+		. Scalability
+
+		. Availability
+
+* Scale and Availability
+------------------------
+. All modern applications work at a high scale
+	- Especially true for software as a service (SaaS) applications
+
+. All modern applications must maintain high availability
+	- Most sensitive at heavily used times
+
+	* THERE ARE MANY HIGH LEVEL TECHNIQUES FOR ARCHITECTING APPLICATIONS THAT MUST MANAGE A HIGH SCALE, WHILE MAINTAINING HIGH AVAILABILITY, WHILE THERE ARE OBVIOUS TECHNIQUES
+	FOR MAINTAINING CODE QUALITY IN AN APPLICATION, THERE ARE HIGHER-LEVEL ACTIVITIES THAT YOU AS THE ARCHITECT WILL LIKELY BE DRIVING IN ORDER TO MAINTAIN OR IMPROVE THE 
+	AVAILABILITY OF YOUR APPLICATION.
+
+	* TOPICS
+	--------
+	. Risk Management.
+	. Service tiers.
+	. Service connectivity.
+	. Service-level agreements.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
