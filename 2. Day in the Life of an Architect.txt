@@ -80,6 +80,41 @@ Anna
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Review plans and guide decisions: Systems
+-------------------------------------------
+
+Anna
+----
+. Team has come up to speed
+. Reviews plans
+. Keeps team moving in right direction
+
+Anton
+-----
+. Existing applications issues
+. Guides team brainstorming
+. Implements recommendations
+
+* Anna and Anton
+----------------
+. Make decisions
+
+. Train and coach
+
+. Work with peers and stakeholders
+
+. Responsible to their teams, product management, and upper management
+
+* Typicall day as an architect
+------------------------------
+. Learner and experimenter.
+
+. Trainer and coach.
+
+. Reviewer and decision-maker.
+
+. Decision guider.
+
 
 
 
