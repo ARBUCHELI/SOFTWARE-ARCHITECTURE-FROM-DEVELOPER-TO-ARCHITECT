@@ -47,6 +47,65 @@ it.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Growing the team and team skills
+----------------------------------
+
+* Training and Growing Team Skills
+----------------------------------
+. Major responsibility of the architect.
+
+. You may not directly train the team, but you are ultimately responsible for their growth.
+
+. Training is a constant process.
+
+* Extension of Management Team
+------------------------------
+. Evaluate current knowledge and expertise.
+
+. Determine the skills necessary to be sucessful.
+
+. Create a plan to fill gaps.
+
+. Provide a growth path for the less experienced.
+
+	* MAKING SURE YOUR TEAM HAS THE SKILLS IT NEEDS WHEHN THEY NEED TO BE APPLIED IS A CRITICAL ROLE FOR A SOFTWARE ARCHITECT.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
