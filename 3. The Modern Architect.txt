@@ -72,6 +72,76 @@ it.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Dev and ops: Both work together
+---------------------------------
+
+* Dev and Ops
+-------------
+. Even with traditional dev-only teams 
+	- You as an architect still have operations responsibility
+
+. Your architecture decisions must focus both on dev and ops
+
+	* FOR EXAMPLE, YOUR ARCHITECTURE WILL NEED TO DEAL WITH HOW THE APPLICATION RESPONDS UNDER HIGH LOADS
+
+* High Load
+-----------
+. Does it brown out?
+
+. Does it fall behind?
+
+. What is the load limit?
+
+	* WITHOUT A CORPORATE, SYSTEMIC, DEVOPS CULTURE, YOUR DEVELOPERS MAY FEEL THESE REQUIREMENTS AREN'T THEIR RESPONSIBILITY.
+
+	* IN ALL ORGANIZATIONS, THE ARCHITECT MUST THIN ABOUT OPERATIONAL REQUIREMENTS, NOT JUST DEVELOPMENT.
+
+* Separate Types of Architects
+------------------------------
+. Separate operations and development architects 
+	- Not very common
+
+. Doesn't change scope of responsibility, just authority
+
+. Development architects are still responsible for operational aspects
+
+. Both architects need to work with the other architect closely
+
+. Avoid "someone else's problem" mentality.
+
+	* YOU HAVE AN OPPORTUNITY TO EVANGELIZE AND DRIVE FORWARD A DEVOPS CULTURE WITHIN THE ORGANIZATION.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
