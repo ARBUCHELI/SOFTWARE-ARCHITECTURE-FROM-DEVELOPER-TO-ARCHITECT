@@ -35,3 +35,115 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Train and coach: Others
+-------------------------
+
+Anna
+----
+. Selects CloudyAPI service management library.
+. Studies how it can help.
+. Believes it could be useful for her team.
+. Trains her team.
+
+Anton
+-----
+. Selects ClodyAPI as well.
+. Integration isn't working as expected.
+. Role: educator and coach.
+. Must train and coach entire team.
+
+Anna
+----
+. Company is hiring new engineers.
+. Inexperienced.
+. Mentors and trains.
+
+Anton
+-----
+. Extended member of management team.
+. Advocates new initiatives.
+. Natural link between team and management.
+
+Anna
+----
+. Evaluation time.
+. Raises and promotions.
+. Helps evaluate engineers.
+. Mentors to improve.
+
+* Responsibilities beyond Technical
+-----------------------------------
+. Train the team on new technologies.
+. Train new engineers.
+. Help evaluate how team members are performing.
+. Extension of management team.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
