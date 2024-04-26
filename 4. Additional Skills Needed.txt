@@ -1,0 +1,74 @@
+# 4. ADDITIONAL SKILLS NEEDED
+-----------------------------
+
+* People Skills
+---------------
+
+	* AS YOU MOVE FROM DEVELOPER TO ARCHITECT, YOU'LL NEED TO ADJUST YOUR MINDSET.
+
+	* YOUR SCOPE OF RESPONSIBILITY WILL EXPAND FROM A SINGLE COMPONENT TO THE INTERCONNECTION OF ALL COMPONENTS.
+
+	
+* Currently an Architect
+------------------------
+. Recently became an architect.
+
+. Need to understand your job.
+
+
+* Want to Be and Architect?
+---------------------------
+. Currently a developer.
+
+. Looking for next career step.
+
+
+* Next Steps: New Architects
+----------------------------
+. Reach out to other architects.
+
+. Use your manager.
+
+. Understand business needs of your company.
+
+. Understand product needs of your company.
+
+. Get to know developers.
+
+. Realize that your role is different now.
+
+
+* Next Steps: Become and Architect
+----------------------------------
+. Take on more resposibility.
+
+. Look for architectural problems in your application.
+
+. Figure out a plan to fix problems.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
