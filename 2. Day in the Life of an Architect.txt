@@ -1,0 +1,37 @@
+# 2. DAY IN THE LIFE OF AN ARCHITECT
+------------------------------------
+
+* Learn and experiment: Self
+----------------------------
+
+	* Learn and experiment 
+	Day in the life of an architect
+
+	* Tale of Two Architects
+	
+		Anna
+		----
+		. Solves immediate problems.
+		. Steps back and learns.
+		. Studies new algorithms.
+		. Experiments with machine learning.
+		. Contributes to team and industry as a whole.
+
+		Anton
+		-----
+		. Similar responsibilities to Anna.
+		. Dedicates time weekly to self-learning.
+		. Reads about best practices.
+		. Attends conferences.
+		. Growing network.
+
+* Architects
+------------
+. Take time for self-growth and self-learning.
+. Help make better procedures and policies for the team.
+. Help make better decisions.
+. Help make better architectures.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
